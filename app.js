@@ -1,1 +1,1 @@
-alert("Cool Codes JS");
+alert("Cool Codes JS!");
